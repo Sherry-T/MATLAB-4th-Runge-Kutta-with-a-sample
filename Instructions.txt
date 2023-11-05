@@ -1,3 +1,3 @@
-* Keep all four .M files in the same directory
-* open "main_l" and run
+* Put all four .m files in the same directory
+* Run "main_l"
 **** by HT ****
